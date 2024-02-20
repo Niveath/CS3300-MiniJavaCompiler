@@ -13,3 +13,11 @@ Java code using JTB visitors for typechecking MiniJava code.
 ## Part 3: IR Generation
 
 Java code using JTB visitors for converting MiniJava code to MiniIR.
+
+## Part 4: Register Allocation
+
+Java code to allocate registers by performing liveness analysis.
+
+## Part 5: Assembly Generation
+
+Convert the miniRA code to MIPS assembly.
